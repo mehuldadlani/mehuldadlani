@@ -4,6 +4,13 @@
 
 ###
 
+- 🔭 I’m currently working on _Using Flutter for dAPPs_
+- ₿ I’m currently learning _Bloackchain_
+- 🤔 I’m looking for help with _Swift._
+- 💬 Ask me about _Flutter and Cyber Security._
+
+
+###
 <br clear="both">
 
 <div align="center">
@@ -72,19 +79,11 @@
 <img align="right" height="250" src="https://media.giphy.com/media/f3KwliaH4MLtli8z7D/giphy.gif"  />
 
 ###
+<div style="padding-left: 20px;" align="left">
+<img width="120" src="https://komarev.com/ghpvc/?username=M3hulD&label=Profile%20views&color=0e75b6&style=flat" alt="M3hulD" />
+</div>
+
+###
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31hupkjp2oueytvyx77x2jhsrnta)
 
-
-
-###
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=M3hulD.M3hulD&left_text=Profile Views"  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/M3hulD/M3hulD/output/snake.svg" alt="Snake animation" />
-
-###
