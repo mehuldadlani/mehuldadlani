@@ -14,9 +14,9 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M3hulD&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="140" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=M3hulD&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="140" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=M3hulD&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="140" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mehuldadlani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="140" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=mehuldadlani&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="140" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehuldadlani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="140" alt="languages graph"  />
 </div>
 
 ###
@@ -83,7 +83,7 @@
 
 ###
 <div style="padding-left: 20px;" align="left">
-<img width="120" src="https://komarev.com/ghpvc/?username=M3hulD&label=Profile%20views&color=0e75b6&style=flat" alt="M3hulD" />
+<img width="120" src="https://komarev.com/ghpvc/?username=mehuldadlani&label=Profile%20views&color=0e75b6&style=flat" alt="mehuldadlani" />
 </div>
 
 ###
