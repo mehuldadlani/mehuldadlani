@@ -5,7 +5,7 @@
 ###
 
 - 🔭 I’m currently working on _Using Flutter for dAPPs_
--  ₿  I’m currently learning _Bloackchain_
+-  ₿  I’m currently learning _Blockchain_
 - 🤔 I’m looking for help with _Swift._
 - 💬 Ask me about _Flutter and Cyber Security._
 
