@@ -75,7 +75,7 @@
   <a href="https://medium.com/@mehuldadlani13" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
   </a>
-   <a href="instagram.com/mxhullll" target="_blank">
+   <a href="https://instagram.com/mxhullll" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
